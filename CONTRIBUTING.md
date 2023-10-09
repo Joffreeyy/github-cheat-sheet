@@ -1,5 +1,5 @@
 # Contributing
-a
+
 1. Fork the repository.
 2. Add your section - make sure you follow the styling guide below.
 3. Commit changes.
